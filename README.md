@@ -17,17 +17,8 @@ This project provides a systematic approach to set up a machine learning worksta
 
 ### Local Environment Setup
 
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/<organization>/<repository>.git
    cd <repository>
-   
-2. Install the required dependencies:
-  ```bash
-  pip install -r requirements.txt
-
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-
 
