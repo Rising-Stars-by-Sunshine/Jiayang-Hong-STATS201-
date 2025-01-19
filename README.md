@@ -14,11 +14,3 @@ This project demonstrates:
 This project provides a systematic approach to set up a machine learning workstation and explore scientific communication using a dataset focused on human locomotion over compliant terrains.
 ---
 
-## System Configuration Instructions
-
-### Local Environment Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<organization>/<repository>.git
-   cd <repository>
