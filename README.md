@@ -13,4 +13,19 @@ This project demonstrates:
 3. Creating a reproducible workflow for data analysis.
 This project provides a systematic approach to set up a machine learning workstation and explore scientific communication using a dataset focused on human locomotion over compliant terrains.
 ---
+## System Configuration Instructions
+
+### Local Environment Setup
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<organization>/<repository>.git
+   cd <repository>
+2.Install the required dependencies:
+  ```bash
+  pip install -r requirements.txt
+3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+
 
