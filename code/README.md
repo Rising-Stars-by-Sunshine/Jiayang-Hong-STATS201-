@@ -27,7 +27,6 @@ This data can be used for:
 
 ## Source
 
-The dataset is sourced from the open-access repository:  
-Angelidou, C., Chambers, V., Hobbs, B., Karakasis, C., Artemiadis, P. (2025). "Kinematics, kinetics, and muscle activations during human locomotion over compliant terrains".  
-Accessed from: [NeurIPS Datasets and Benchmarks](https://neurips.cc/datasets).
+The dataset is sourced from the open-access repository:
 
+[**Kinematics, kinetics, and muscle activations during human locomotion over compliant terrains**](https://springernature.figshare.com/articles/dataset/Kinematics_kinetics_and_muscle_activations_during_human_locomotion_over_compliant_terrains/27180288)
